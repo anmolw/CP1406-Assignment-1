@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+<!-- TemplateBeginEditable name="Title" -->
+<title>Cossie Play</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Amaranth">
+<link rel="stylesheet" href="css/styles.css">
+<!-- TemplateBeginEditable name="Additional Styles" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="Highlighted nav item" -->
+<style type="text/css">
+	#navbar #navhome {
+		background-color: white;
+		color:black;
+	}
+</style>
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+  <div id="wrapper">
+    <div id="navbar">
+      <ul>
+        <li><a href="index.html" id="navhome">Home</a></li>
+        <li><a href="announcements.html" id="navannounce">Announcements</a></li>
+        <li><a href="costumes.html" id="navcostumes">Costumes</a></li>
+        <li><a href="about.html" id="navabout">About</a></li>
+        <li><a href="about.html" id="navcontact">Contact</a></li>
+      </ul>
+	</div>
+    <div id="content">
+    <!-- TemplateBeginEditable name="Main content" -->
+   
+    <!-- TemplateEndEditable -->
+    </div>
+    <div id="footer">&copy; Cossie Play 2016</div>
+  </div>
+
+</body>
+</html>

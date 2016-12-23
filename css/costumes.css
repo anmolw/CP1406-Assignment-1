@@ -1,0 +1,14 @@
+tr:nth-child(even) {
+	background-color: #EEFCFF;
+}
+
+td, th {
+	padding: 10px;
+	width:25%;
+}
+
+th {
+	font-weight: bold;
+	background-color: #00ABD0;
+	color:white;
+}

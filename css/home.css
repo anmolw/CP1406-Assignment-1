@@ -1,0 +1,19 @@
+.billboard {
+	font-size:1.2em;
+	background-color:#EEFCFF;
+	padding:15px 20px 15px 20px;
+	border-radius:5px;
+    overflow: auto;
+}
+
+.billboard h1 {
+	vertical-align: top;
+}
+.billboard img {
+	border-radius:5px;
+	height:auto;
+	float:right;
+	margin-top:100px;
+	margin-left:5px;
+	width:50%;
+}
