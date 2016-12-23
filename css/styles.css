@@ -56,6 +56,10 @@ body {
 	text-align:left;
 }
 
+#content li {
+	margin-top:15px;
+}
+
 #footer {
 	background-color: #169BB7;
 	clear:both;
@@ -63,6 +67,19 @@ body {
     text-align:center;
 	padding-top:6px;
 	padding-bottom:6px;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+/*	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
+	letter-spacing: 2px;
+	font-family: Amaranth;
+	color:#04A439;
+
+}
+
+h1 {
+	text-transform: uppercase;
 }
 
 .button {
@@ -88,18 +105,7 @@ body {
 	color:#2466EB;
 	font-weight: bold;
 }
-#content li {
-	margin-top:15px;
-}
 
-h1, h2, h3, h4, h5, h6{
-/*	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
-	letter-spacing: 2px;
-	font-family: Amaranth;
-	color:#04A439;
-
-}
-
-h1 {
-	text-transform: uppercase;
+.bigimage {
+	margin-bottom: 20px; border-radius: 5px;
 }
