@@ -58,6 +58,7 @@ body {
 
 #footer {
 	background-color: #169BB7;
+	clear:both;
 	color:white;
     text-align:center;
 	padding-top:6px;
